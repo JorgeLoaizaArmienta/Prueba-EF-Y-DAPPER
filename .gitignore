@@ -1,0 +1,41 @@
+## Archivos comunes de .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos temporales
+*.log
+*.vspscc
+*.vssscc
+*.ncb
+*.aps
+*.cache
+*.dbmdl
+*.bak
+*.backup
+*.mdf
+*.ldf
+
+## Visual Studio
+.vs/
+launchSettings.json
+
+## Archivos de publicación
+publish/
+out/
+TestResults/
+
+## Archivos de configuración locales (seguridad)
+appsettings.Development.json
+
+## Archivos de sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Archivos de sistema macOS/Linux
+.DS_Store
+*.swp
